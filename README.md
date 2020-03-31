@@ -1,2 +1,2 @@
 # Leap-Year
-a program to find the leap year
+THis is a program used to check whether the year is a  leap year or not using python
